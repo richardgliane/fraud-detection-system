@@ -86,7 +86,7 @@ A sample test.json is included. Ensure it matches the dataset’s feature struct
 
 
 ## Project Structure
-
+```
 fraud-detection-system/
 ├── train_model.py    # Trains and saves the Random Forest model
 ├── app.py            # Flask API for predictions
@@ -95,6 +95,7 @@ fraud-detection-system/
 ├── test.json         # Sample input for testing
 ├── .gitignore        # Excludes large files (e.g., fraud_model.pkl, creditcard.csv)
 └── Fraud_API_Testing.ipynb  # Jupyter notebook for interactive testing
+```
 
 ## Key Learnings
 
