@@ -3,6 +3,7 @@
 Welcome to my **Financial Fraud Detection System**—a practical machine learning project I developed to detect fraudulent transactions using the Kaggle Credit Card Fraud Detection dataset. This project showcases my skills in Python, machine learning, and the development of a RESTful API. It includes a trained Random Forest model and a Flask-based API for real-time predictions. Let’s dive into the details!
 
 Jupyter Notebooks:
+
 https://github.com/richardgliane/fraud-detection-system/blob/main/Fraud_Model_Training.ipynb
 https://github.com/richardgliane/fraud-detection-system/blob/main/Fraud_API_Testing.ipynb
 
